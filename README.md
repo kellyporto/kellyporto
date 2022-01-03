@@ -1,5 +1,4 @@
 ##  Olá! Eu sou a Kelly Porto!
-Desenvolvedora em aprendizagem.
 
 <div align="center">
   <a href="https://github.com/kellyporto">
