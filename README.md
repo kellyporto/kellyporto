@@ -1,5 +1,5 @@
 ##  Olá! Eu sou a Kelly Porto!
-Estudo HTML, CSS, Java Script
+Desenvolvedora em aprendizagem.
 
 <div align="center">
   <a href="https://github.com/kellyporto">
